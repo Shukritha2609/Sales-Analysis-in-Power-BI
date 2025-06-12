@@ -1,5 +1,6 @@
 # Sales-Analysis-in-Power-BI
 Here I have created a Dashboard based the store Sales
+
 **Project Overview**
 **Objective**: To create a comprehensive Power BI dashboard for analyzing store sales data across time, locations, and product categories.
 
